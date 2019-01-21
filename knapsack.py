@@ -2,7 +2,7 @@
 # Author: Lukas Gosch
 # Date: 21.1.2019
 # Description:
-# 	Implementation of an Instance class in the b&b api for the 0/1 
+# 	Implementation of an Instance class, using the b&b api, for the 0/1 
 #	Knapsack problem.
 #	
 #	Usage: 1) Initialize a Knapsack object with a certain capacity,
