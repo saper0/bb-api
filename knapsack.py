@@ -10,6 +10,7 @@
 #		   2) Call its solve() method
 #######################################################################
 
+import copy
 import numpy as np
 from bb import Instance
 
