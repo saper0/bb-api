@@ -30,7 +30,6 @@ import sys
 import importlib
 import argparse
 import queue
-import copy
 import numpy as np
 
 class Instance:
