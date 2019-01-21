@@ -1,6 +1,8 @@
 # bb-api
 General Purpose Branch &amp; Bound API
 
+* Supports best-first, depth-first and breath-first search strategies.
+
 ### Files
 
 * bb.py: The API implementation
